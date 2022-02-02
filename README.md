@@ -1,4 +1,3 @@
 # Decentralised-Cloud-Storage
 developing decentralised storage
-# P2P-Storage
-Building p2p storage
+like p2p storage
