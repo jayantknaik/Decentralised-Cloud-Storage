@@ -1,3 +1,2 @@
 # Decentralised-Cloud-Storage
-Building p2p storage
-t2
+devloping p2p storage
